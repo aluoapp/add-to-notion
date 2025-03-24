@@ -78,6 +78,6 @@ We're constantly improving Add to Notion with new features and enhancements. Com
 
 <p align="center">
   <a href="https://chrome.google.com/webstore/detail/add-to-notion/biiilcmpbeipakdmolgnkmliepobjnni">
-    <img src="chrome-store-badge.png" alt="Available in the Chrome Web Store" width="250">
+    <img src="5.png" alt="Available in the Chrome Web Store" width="250">
   </a>
 </p>
